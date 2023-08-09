@@ -24,4 +24,11 @@ public class GlobalExceptionHandler {
         return Result.error(ex.getMessage());
     }
 
+    /**
+     * @para
+     * @return
+     * 捕获重复的异常
+     */
+
+
 }
